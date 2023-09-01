@@ -1,8 +1,8 @@
-# MIA phase 1 Tasks
+# MIA  Tasks
 
 ## Tasks Description
 
-There are four tasks in phase 1 with different types : software, hardware and AI.
+There are five tasks with different types : software, hardware and AI.
 
 ## Task 1 Description
 
@@ -19,3 +19,7 @@ It was about arduino. it was really usefull. I learned  communication protocols 
 ## Task 4 Description
 
 It was really fantastic task. it was about python programming and AI. I learned OOP and i created a battle simulation system using it. And i also train my first AI model using linear regression.
+
+## Task 5 Description
+
+This is mark down file that contains some Linux commands i tried in on my virtual machine.
