@@ -22,4 +22,4 @@ It was really fantastic task. it was about python programming and AI. I learned 
 
 ## Task 5 Description
 
-This is mark down file that contains some Linux commands i tried in on my virtual machine.
+This is mark down file that contains some Linux commands i tried in my virtual machine.
